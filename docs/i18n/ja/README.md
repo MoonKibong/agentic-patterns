@@ -63,7 +63,3 @@ Agentic Patterns の日本語ウィキへようこそ。
 - 初期の観察には [フィールドノートテンプレート](../../../field-notes/_template.md) を使用してください。
 - 公開前に [ライセンス](licensing.md) を確認してください。
 - 例やフィールドノートを追加する前に [Evidence Hygiene（証拠衛生）](evidence-hygiene.md) を確認してください。
-
-## サイドバー
-
-日本語サイドバーは [_sidebar.md](_sidebar.md) にあります。

@@ -67,7 +67,3 @@ español de la documentación pública actual.
 - Usa la [Plantilla de Nota de Campo](../../../field-notes/_template.md) para observaciones iniciales.
 - Revisa la [Licencia](licensing.md) antes de decisiones de publicación.
 - Revisa la [Higiene de Evidencia](evidence-hygiene.md) antes de añadir ejemplos o notas de campo.
-
-## Barra Lateral
-
-La navegación estilo barra lateral está en [_sidebar.md](_sidebar.md).

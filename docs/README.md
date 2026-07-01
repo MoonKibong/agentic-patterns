@@ -65,8 +65,3 @@ individual pattern entries when you need operational detail.
 - Check [Licensing](licensing.md) before public release decisions.
 - Check [Evidence Hygiene](evidence-hygiene.md) before adding examples or field notes.
 - Check [Localized Quick Starts](i18n/README.md) when changing user-facing docs.
-
-## Sidebar
-
-The sidebar-style navigation lives in [_sidebar.md](_sidebar.md). It can be copied or adapted if the
-project later publishes a GitHub Wiki, MkDocs site, or another documentation surface.

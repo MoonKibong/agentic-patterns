@@ -63,7 +63,3 @@ Agentic Patterns 简体中文维基入口。
 - 早期观察请使用[字段笔记模板](../../../field-notes/_template.md)。
 - 公开发布前请确认[许可协议](licensing.md)。
 - 添加示例或字段笔记前请阅读[证据卫生](evidence-hygiene.md)。
-
-## 侧边栏
-
-简体中文侧边栏位于 [_sidebar.md](_sidebar.md)。
