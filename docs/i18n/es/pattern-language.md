@@ -70,7 +70,11 @@ La situación, las precondiciones y los supuestos del entorno donde aplica el pa
 
 ### Forces (Fuerzas)
 
-Las tensiones y tradeoffs que hacen el problema difícil.
+Las tensiones que hacen el problema no trivial. Ejemplos:
+
+- Más context puede ayudar al agente, pero demasiado context puede enterrar la señal importante.
+- Más autonomy puede acelerar la ejecución, pero una autonomy sin límites puede ocultar riesgos.
+- Más agentes pueden paralelizar el trabajo, pero el overhead de coordination puede superar el beneficio.
 
 ### Solution (Solución)
 
@@ -123,6 +127,8 @@ Patrones que se usan juntos, que entran en conflicto o que se reemplazan entre s
 
 ## Categorías
 
+Categorías iniciales:
+
 - `prompt`: estructuras de instrucción reutilizables.
 - `context`: estructura de paquete de contexto.
 - `harness`: flujos de trabajo de planificación, ejecución, revisión y verificación.
@@ -130,6 +136,8 @@ Patrones que se usan juntos, que entran en conflicto o que se reemplazan entre s
 - `tool`: patrones de interacción con MCP, CLI, script y entorno.
 - `memory`: patrones de conocimiento durable y estado.
 - `evaluation`: cómo juzgar si un patrón funcionó.
+
+Las categorías pueden cambiar a medida que el catálogo madura.
 
 ## Higiene de Evidencia
 
@@ -149,3 +157,23 @@ Prohibido:
 - Transcripciones que revelen dirección de producto no publicada o detalles de implementación interna.
 
 En caso de duda, generaliza el escenario y mantén el patrón operativo.
+
+## Reglas de Nombres
+
+Los nombres de patrones deben ser:
+
+- Cortos.
+- Memorables.
+- Operativos.
+- Suficientemente específicos para distinguir el movimiento.
+
+Evita nombres que solo describan un objetivo, como `Better Coding` o `Good Context`.
+
+## Legibilidad por Máquina
+
+Los archivos de patrones deben seguir siendo útiles como Markdown normal. El bloque de metadatos existe
+para que los futuros mantenedores puedan:
+
+- Construir índices.
+- Verificar campos faltantes.
+- Recomendar patrones a los agentes.

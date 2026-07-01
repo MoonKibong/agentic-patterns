@@ -38,5 +38,6 @@
 
 ## 近期待办
 
+- 选择最终 license，并在根目录添加 `LICENSE` 文件或声明。
 - 添加模式组合示例。
 - 添加代理在 planning 和 review 过程中使用 pattern document 的公开示例。

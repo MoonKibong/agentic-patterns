@@ -64,7 +64,11 @@ related:
 
 ### Forces
 
-使问题变得困难的张力与 tradeoff。
+使问题变得困难的张力与 tradeoff。示例：
+
+- 更多 context 有助于代理，但过多 context 会掩盖重要信号。
+- 更多 autonomy 能加快执行，但无限制的 autonomy 会隐藏风险。
+- 更多 agent 能并行工作，但 coordination 开销可能超过收益。
 
 ### Solution
 
@@ -113,6 +117,8 @@ Evidence 必须可安全公开。使用 sanitized summary、synthetic reproducti
 
 ## Categories
 
+初始分类：
+
 - `prompt`：可复用的 instruction structure。
 - `context`：context packet structure。
 - `harness`：planning、execution、review、verification workflow。
@@ -120,6 +126,8 @@ Evidence 必须可安全公开。使用 sanitized summary、synthetic reproducti
 - `tool`：MCP、CLI、script、environment interaction pattern。
 - `memory`：durable knowledge 与 state pattern。
 - `evaluation`：判断模式是否有效的方法。
+
+分类会随着目录的成熟而变化。
 
 ## Evidence Hygiene
 

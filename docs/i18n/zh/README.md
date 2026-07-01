@@ -15,6 +15,7 @@ Agentic Patterns 简体中文维基入口。
 - [目录](../../../catalog/README.md): 当前模式列表。
 - [路线图](roadmap.md): 项目的未来方向。
 - [贡献指南](CONTRIBUTING.md): 如何添加模式和字段笔记。
+- [本地化快速开始](../README.md): 面向初次读者的简短翻译。
 - [开源准备](oss/OPEN_SOURCE_READINESS.md): 公开发布检查清单。
 
 ## 按目标浏览
@@ -63,6 +64,7 @@ Agentic Patterns 简体中文维基入口。
 - 早期观察请使用[字段笔记模板](../../../field-notes/_template.md)。
 - 公开发布前请确认[许可协议](licensing.md)。
 - 添加示例或字段笔记前请阅读[证据卫生](evidence-hygiene.md)。
+- 更改面向用户的文档时请查看[本地化快速开始](../README.md)。
 
 ## 侧边栏
 

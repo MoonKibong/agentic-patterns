@@ -39,5 +39,6 @@ name이 들어오면 바뀔 수 있습니다.
 
 ## Near-Term Backlog
 
+- 최종 license 선택 및 root `LICENSE` 파일 또는 notice 추가.
 - Pattern composition example 추가.
 - Agent가 planning과 review 중 pattern document를 사용하는 공개 예시 추가.

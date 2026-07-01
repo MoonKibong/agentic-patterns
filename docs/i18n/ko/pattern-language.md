@@ -68,7 +68,11 @@ related:
 
 ### Forces
 
-문제를 어렵게 만드는 긴장과 tradeoff입니다.
+문제를 non-trivial하게 만드는 긴장입니다. 예시:
+
+- Context가 많으면 에이전트에 도움이 되지만, 너무 많으면 중요한 signal이 묻힐 수 있습니다.
+- Autonomy가 크면 실행이 빨라지지만, 무제한 autonomy는 risk를 숨길 수 있습니다.
+- Agent가 많으면 작업을 병렬화하지만, coordination overhead가 이점을 초과할 수 있습니다.
 
 ### Solution
 
@@ -120,6 +124,8 @@ credential, internal transcript를 노출하지 않습니다.
 
 ## Categories
 
+초기 카테고리:
+
 - `prompt`: 재사용 가능한 instruction structure.
 - `context`: context packet structure.
 - `harness`: planning, execution, review, verification workflow.
@@ -127,6 +133,8 @@ credential, internal transcript를 노출하지 않습니다.
 - `tool`: MCP, CLI, script, environment interaction pattern.
 - `memory`: durable knowledge와 state pattern.
 - `evaluation`: 패턴이 작동했는지 판단하는 방법.
+
+카탈로그가 성숙하면서 카테고리는 바뀔 수 있습니다.
 
 ## Evidence Hygiene
 
@@ -146,3 +154,23 @@ credential, internal transcript를 노출하지 않습니다.
 - unreleased product direction 또는 internal implementation detail이 드러나는 transcript.
 
 의심스러우면 시나리오를 일반화하고 패턴을 operational하게 유지합니다.
+
+## Naming Rules
+
+패턴 이름은 다음과 같아야 합니다:
+
+- 짧게.
+- 기억하기 쉽게.
+- Operational하게.
+- 해당 move를 구분할 수 있을 만큼 구체적으로.
+
+`Better Coding`이나 `Good Context`처럼 단순히 목표만 설명하는 이름은 피합니다.
+
+## Machine Readability
+
+패턴 파일은 일반 Markdown으로서 유용하게 유지되어야 합니다. Metadata block은 향후 maintainer가
+다음을 할 수 있도록 존재합니다:
+
+- Index 빌드.
+- 누락된 field 확인.
+- 에이전트에게 패턴 추천.

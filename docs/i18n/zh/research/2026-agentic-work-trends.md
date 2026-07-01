@@ -72,7 +72,7 @@ Image、writing、design 和 video workflow 会生成中间制品：brief、refe
 
 ## 来源卫生
 
-不将生成的引用默认视为已验证。
+Gemini 的研究输出包含有用的线索，但本仓库不应默认将生成的引用视为已验证。对于公开文档：
 
 - 优先使用 primary source 和官方文档。
 - 未验证的条目标注为 lead。
