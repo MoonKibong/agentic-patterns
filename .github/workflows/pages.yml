@@ -1,15 +1,15 @@
-name: Deploy docs to GitHub Pages
+name: Deploy site to GitHub Pages
 
-# Publishes the docsify site in docs/ to GitHub Pages on every push to the
-# default branch. The site is static (docsify renders Markdown in the browser),
-# so no build step is required — we upload docs/ as-is.
+# Publishes the docsify site to GitHub Pages. The site is served from the
+# REPOSITORY ROOT (index.html at root) so that every repo-relative link — docs/,
+# patterns/, catalog/, field-notes/, and the root project guides — resolves as an
+# in-site route. The site is static (docsify renders Markdown in the browser), so
+# there is no build step; we just stage the repo (minus VCS/CI internals) and
+# upload it.
 
 on:
   push:
     branches: [main]
-    paths:
-      - 'docs/**'
-      - '.github/workflows/pages.yml'
   workflow_dispatch:
 
 # Allow only one concurrent deployment; skip runs queued behind an in-progress one.
@@ -39,10 +39,19 @@ jobs:
         with:
           enablement: true
 
-      - name: Upload docs artifact
+      - name: Assemble site from repo root (minus VCS/CI internals)
+        run: |
+          mkdir -p _site
+          rsync -a --delete \
+            --exclude='.git' \
+            --exclude='.github' \
+            --exclude='_site' \
+            ./ _site/
+
+      - name: Upload site artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: docs
+          path: _site
 
       - name: Deploy to GitHub Pages
         id: deployment
