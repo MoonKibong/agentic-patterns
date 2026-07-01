@@ -1,0 +1,57 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://agentic-patterns.dev/schemas/pattern.schema.json",
+  "title": "Agentic Pattern",
+  "type": "object",
+  "required": ["id", "name", "category", "status", "applies_to"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "category": {
+      "type": "string",
+      "enum": ["prompt", "context", "harness", "orchestration", "tool", "memory", "evaluation"]
+    },
+    "status": {
+      "type": "string",
+      "enum": ["draft", "candidate", "accepted", "deprecated"]
+    },
+    "applies_to": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1
+    },
+    "domains": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "coding",
+          "image-generation",
+          "writing",
+          "design",
+          "video-media",
+          "research-analysis",
+          "general"
+        ]
+      },
+      "default": []
+    },
+    "related": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+      },
+      "default": []
+    }
+  },
+  "additionalProperties": true
+}
