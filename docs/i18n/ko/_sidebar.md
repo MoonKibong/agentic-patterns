@@ -7,7 +7,6 @@
 - [증거 위생](evidence-hygiene.md)
 - [Agentic Work 동향](research/2026-agentic-work-trends.md)
 - [카탈로그](../../../catalog/README.md)
-- [i18n 범위](../COVERAGE.md)
 
 ## 카테고리
 

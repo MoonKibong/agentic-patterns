@@ -28,8 +28,8 @@ Le projet a commence avec l'agentic coding, mais couvre aussi :
 
 ## Commencer
 
-- Entree du pack de langue: [docs/i18n/fr/README.md](fr/README.md)
-- Accueil docs: [docs/README.md](../README.md)
+- Wiki complète en français: [docs/i18n/fr/README.md](fr/README.md)
+- Barre latérale en français: [docs/i18n/fr/_sidebar.md](fr/_sidebar.md)
 - Catalogue: [catalog/README.md](../../catalog/README.md)
 - Modele de pattern: [patterns/_template.md](../../patterns/_template.md)
 - Revisez les liens et les limites de confidentialite avant publication.

@@ -10,15 +10,15 @@ language.
 | --- | --- | --- | --- | --- | --- |
 | Language pack entry page | Complete | Complete | Complete | Complete | Complete |
 | Quick start | Complete | Complete | Complete | Complete | Complete |
-| Root contribution guide | Complete | Not started | Not started | Not started | Not started |
-| Wiki home and sidebar | Complete | Not started | Not started | Not started | Not started |
-| Category pages | Complete | Not started | Not started | Not started | Not started |
-| Domain pages | Complete | Not started | Not started | Not started | Not started |
-| Project / pattern language docs | Complete | Not started | Not started | Not started | Not started |
-| Evidence / licensing / roadmap | Complete | Not started | Not started | Not started | Not started |
-| Research note | Complete | Not started | Not started | Not started | Not started |
-| OSS / distribution docs | Complete | Not started | Not started | Not started | Not started |
-| Foundations | Complete | Not started | Not started | Not started | Not started |
+| Root contribution guide | Complete | Complete | Complete | Complete | Complete |
+| Wiki home and sidebar | Complete | Complete | Complete | Complete | Complete |
+| Category pages | Complete | Complete | Complete | Complete | Complete |
+| Domain pages | Complete | Complete | Complete | Complete | Complete |
+| Project / pattern language docs | Complete | Complete | Complete | Complete | Complete |
+| Evidence / licensing / roadmap | Complete | Complete | Complete | Complete | Complete |
+| Research note | Complete | Complete | Complete | Complete | Complete |
+| OSS / distribution docs | Complete | Complete | Complete | Complete | Complete |
+| Foundations | Complete | Complete | Complete | Complete | Complete |
 
 ## Translation Rules
 
@@ -29,6 +29,15 @@ language.
 - If a source change affects user-facing meaning, update the localized mirror in the same PR or mark
   the gap here.
 
-## Current Complete Mirror
+## Current Complete Mirrors
+
+All five localized wikis are complete, self-contained mirrors of the current `docs/`
+user-facing wiki pages. Internal links inside each mirror resolve to same-locale pages;
+the only outbound links are the shared English-only source artifacts (`catalog/`,
+`patterns/`, `field-notes/`).
 
 - [Korean wiki mirror](ko/README.md)
+- [Japanese wiki mirror](ja/README.md)
+- [Chinese (Simplified) wiki mirror](zh/README.md)
+- [Spanish wiki mirror](es/README.md)
+- [French wiki mirror](fr/README.md)

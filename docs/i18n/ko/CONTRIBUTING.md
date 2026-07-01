@@ -63,7 +63,7 @@ workflow transcript를 포함하지 않습니다.
 
 ## 지역화 문서
 
-[docs/i18n/](../README.md)의 localized quick start와 wiki mirror는 공개 진입점입니다.
+docs/i18n/의 localized quick start와 wiki mirror는 공개 진입점입니다.
 프로젝트 설명, 핵심 category, safety/privacy language, contribution workflow가 바뀌면
 지역화 문서도 함께 갱신하거나, pull request에서 번역 갱신이 필요 없는 이유를
 명시합니다.
