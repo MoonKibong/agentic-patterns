@@ -65,7 +65,3 @@ Agentic Patterns의 한국어 위키 진입점입니다.
 - 공개 릴리스 전 [라이선스](licensing.md)를 확인합니다.
 - 예시나 필드 노트를 추가하기 전에 [증거 위생](evidence-hygiene.md)을 확인합니다.
 - 사용자 대상 문서를 변경할 때 [현지화된 빠른 시작](../README.md)을 확인합니다.
-
-## 사이드바
-
-한국어 사이드바는 [_sidebar.md](_sidebar.md)에 있습니다.

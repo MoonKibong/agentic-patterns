@@ -65,7 +65,3 @@ Agentic Patterns 简体中文维基入口。
 - 公开发布前请确认[许可协议](licensing.md)。
 - 添加示例或字段笔记前请阅读[证据卫生](evidence-hygiene.md)。
 - 更改面向用户的文档时请查看[本地化快速开始](../README.md)。
-
-## 侧边栏
-
-简体中文侧边栏位于 [_sidebar.md](_sidebar.md)。

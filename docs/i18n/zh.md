@@ -28,7 +28,6 @@ Agentic Patterns 是一种用于人类引导 AI 工作的模式语言。
 ## 从这里开始
 
 - 完整中文维基: [docs/i18n/zh/README.md](zh/README.md)
-- 中文侧边栏: [docs/i18n/zh/_sidebar.md](zh/_sidebar.md)
 - 目录: [catalog/README.md](../../catalog/README.md)
 - 模式模板: [patterns/_template.md](../../patterns/_template.md)
 - 发布前检查链接和隐私边界。

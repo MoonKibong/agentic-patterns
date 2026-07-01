@@ -65,7 +65,3 @@ Agentic Patterns の日本語ウィキへようこそ。
 - 公開前に [ライセンス](licensing.md) を確認してください。
 - 例やフィールドノートを追加する前に [Evidence Hygiene（証拠衛生）](evidence-hygiene.md) を確認してください。
 - ユーザー向けドキュメントを変更する際は [ローカライズされたクイックスタート](../README.md) を確認してください。
-
-## サイドバー
-
-日本語サイドバーは [_sidebar.md](_sidebar.md) にあります。

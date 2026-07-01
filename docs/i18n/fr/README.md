@@ -67,7 +67,3 @@ Le contenu anglais fait foi ; ce document est le miroir français du wiki public
 - Vérifiez les [Licences](licensing.md) avant les décisions de publication publique.
 - Vérifiez l'[Hygiène des preuves](evidence-hygiene.md) avant d'ajouter des exemples ou des notes de terrain.
 - Consultez les [Démarrages rapides localisés](../README.md) lors de la modification de la documentation destinée aux utilisateurs.
-
-## Barre latérale
-
-La navigation en style barre latérale se trouve dans [_sidebar.md](_sidebar.md).
