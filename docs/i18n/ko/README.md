@@ -15,6 +15,7 @@ Agentic Patterns의 한국어 위키 진입점입니다.
 - [카탈로그](../../../catalog/README.md): 현재 패턴 목록.
 - [로드맵](roadmap.md): 앞으로의 방향.
 - [기여 가이드](CONTRIBUTING.md): 패턴과 필드 노트 추가 방법.
+- [현지화된 빠른 시작](../README.md): 처음 읽는 사람을 위한 짧은 번역.
 - [오픈소스 준비](oss/OPEN_SOURCE_READINESS.md): 공개 릴리스 체크리스트.
 
 ## 목표별 탐색
@@ -63,7 +64,4 @@ Agentic Patterns의 한국어 위키 진입점입니다.
 - 초기 관찰은 [필드 노트 템플릿](../../../field-notes/_template.md)을 사용합니다.
 - 공개 릴리스 전 [라이선스](licensing.md)를 확인합니다.
 - 예시나 필드 노트를 추가하기 전에 [증거 위생](evidence-hygiene.md)을 확인합니다.
-
-## 사이드바
-
-한국어 사이드바는 [_sidebar.md](_sidebar.md)에 있습니다.
+- 사용자 대상 문서를 변경할 때 [현지화된 빠른 시작](../README.md)을 확인합니다.

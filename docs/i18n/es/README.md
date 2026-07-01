@@ -18,6 +18,7 @@ español de la documentación pública actual.
 - [Catálogo](../../../catalog/README.md): tabla de patrones actuales.
 - [Hoja de Ruta](roadmap.md): hacia dónde va el proyecto.
 - [Guía de Contribución](CONTRIBUTING.md): cómo añadir patrones y notas de campo.
+- [Inicios Rápidos Localizados](../README.md): traducciones breves para lectores primerizos.
 - [Preparación para Código Abierto](oss/OPEN_SOURCE_READINESS.md): checklist de publicación.
 
 ## Navegar por Objetivo
@@ -67,7 +68,4 @@ español de la documentación pública actual.
 - Usa la [Plantilla de Nota de Campo](../../../field-notes/_template.md) para observaciones iniciales.
 - Revisa la [Licencia](licensing.md) antes de decisiones de publicación.
 - Revisa la [Higiene de Evidencia](evidence-hygiene.md) antes de añadir ejemplos o notas de campo.
-
-## Barra Lateral
-
-La navegación estilo barra lateral está en [_sidebar.md](_sidebar.md).
+- Revisa los [Inicios Rápidos Localizados](../README.md) al cambiar documentos de cara al usuario.

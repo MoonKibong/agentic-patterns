@@ -43,3 +43,14 @@ README search phrases:
 5. Hype보다 practical problem 중심으로 announcement 작성.
 6. Field note, translation, new pattern contribution 초대.
 7. Taxonomy confusion이나 missing domain feedback 추적.
+
+## Curated Lists
+
+초기 feedback 이후, 다음 주제의 curated list에 제출하는 것을 고려합니다:
+
+- AI agents
+- prompt engineering
+- context engineering
+- software engineering with AI
+- human-AI interaction
+- creative AI tools

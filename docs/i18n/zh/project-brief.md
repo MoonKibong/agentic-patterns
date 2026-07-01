@@ -23,13 +23,15 @@ Agentic Patterns 是一个公开目录与模式语言，收录可复用的 promp
 
 Agentic Patterns 收集 human-guided AI 工作中反复出现问题的可复用解法。Agentic coding 是第一个成熟的领域，因为它具有明确的上下文文件、工具、测试、仓库、审查循环和持久化制品。同样的模式语言也适用于图像生成、写作、产品设计、design-to-code、video/media production、research 和 analysis。
 
+它借鉴软件工程中的 pattern-language 理念，并将其应用于 prompt、context engineering、review loop、multi-agent orchestration、role contract 和 tool-use protocol。目标是让有效的 human-AI workflow 更易于命名、教学、批评、自动化和改进。
+
+知识背景请参见[模式语言的根源](foundations/pattern-language-roots.md)。
+
 ## 为何重要
 
 AI 代理能够匹配大量模式，但仍然需要人类的目标、判断、记忆和抽象能力。人类往往在能够正式证明某个工作流有效之前，就已经发现了它。为这些工作流命名，使其更易于传达、测试、改进和复用。
 
 本项目将模式视为运营知识的 memetic unit：紧凑、可传播的解法，帮助人类与 AI 系统围绕共同目标协作。
-
-知识背景请参见[模式语言的根源](foundations/pattern-language-roots.md)。
 
 ## 项目范围
 

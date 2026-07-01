@@ -28,7 +28,6 @@ El proyecto empezo con agentic coding, pero tambien cubre:
 ## Comienza aqui
 
 - Wiki completa en español: [docs/i18n/es/README.md](es/README.md)
-- Barra lateral en español: [docs/i18n/es/_sidebar.md](es/_sidebar.md)
 - Catalogo: [catalog/README.md](../../catalog/README.md)
 - Plantilla de patron: [patterns/_template.md](../../patterns/_template.md)
 - Revise enlaces y limites de privacidad antes de publicar.

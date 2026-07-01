@@ -39,5 +39,6 @@ a medida que llegue mejor evidencia y mejores nombres de patrones.
 
 ## Backlog a Corto Plazo
 
+- Elegir la licencia final y añadir archivos o avisos `LICENSE` en la raíz.
 - Añadir ejemplos de composición de patrones.
 - Añadir ejemplos públicos de agentes que usen documentos de patrones durante la planificación y revisión.

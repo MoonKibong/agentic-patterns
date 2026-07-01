@@ -4,6 +4,8 @@
 
 ## 현재 결정
 
+Dual-license 모델을 사용합니다:
+
 - Pattern catalog, documentation, prompt, field note: **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
 - Code, schema, 승인된 software artifact: **MIT**.
 

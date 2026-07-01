@@ -40,6 +40,7 @@ mesure que les contributeurs apportent de meilleures preuves et de meilleurs nom
 
 ## Carnet de commandes à court terme
 
+- Choisir la licence finale et ajouter des fichiers ou avis `LICENSE` à la racine.
 - Ajouter des exemples de composition de patterns.
 - Ajouter plus d'exemples publics d'agents utilisant des documents de patterns lors de la
   planification et de la révision.

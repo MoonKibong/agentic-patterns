@@ -4,6 +4,8 @@ Este proyecto usa una licencia dividida.
 
 ## Decisión Actual
 
+Usa un modelo de licencia dual:
+
 - Catálogo de patrones, documentación, prompts, notas de campo: **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
 - Código, esquemas, artefactos de software aprobados: **MIT**.
 

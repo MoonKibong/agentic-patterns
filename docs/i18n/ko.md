@@ -28,7 +28,6 @@ Agentic Patterns는 사람이 AI를 더 잘 지휘하기 위한 패턴 언어입
 ## 시작하기
 
 - 전체 한국어 위키 홈: [docs/i18n/ko/README.md](ko/README.md)
-- 한국어 사이드바 네비게이션: [docs/i18n/ko/_sidebar.md](ko/_sidebar.md)
 - 카탈로그: [catalog/README.md](../../catalog/README.md)
 - 패턴 템플릿: [patterns/_template.md](../../patterns/_template.md)
 - 공개 전 link와 privacy boundary를 검토합니다.

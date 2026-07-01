@@ -4,6 +4,8 @@
 
 ## 当前决定
 
+采用双许可模式：
+
 - Pattern catalog、文档、prompt、field note：**Creative Commons Attribution 4.0 International (CC BY 4.0)**。
 - Code、schema 及已批准的 software artifact：**MIT**。
 

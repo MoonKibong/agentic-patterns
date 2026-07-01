@@ -21,6 +21,9 @@ video/media, research workflow에도 나타납니다.
 - human approval gate
 - safety와 governance wrapper
 
+따라서 catalog는 reusable primitive를 중심으로 구성하고, domain page는 그 primitive가 coding,
+image generation, writing, design, video/media, research에 어떻게 적용되는지 보여주어야 합니다.
+
 ## Verified Source Notes
 
 | Source | Date | Relevance |

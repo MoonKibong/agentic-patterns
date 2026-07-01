@@ -17,6 +17,7 @@ Le contenu anglais fait foi ; ce document est le miroir français du wiki public
 - [Catalogue](../../../catalog/README.md) : tableau des patterns actuels.
 - [Feuille de route](roadmap.md) : vers où le projet se dirige.
 - [Guide de contribution](CONTRIBUTING.md) : comment ajouter des patterns et des notes de terrain.
+- [Démarrages rapides localisés](../README.md) : traductions courtes pour les premiers lecteurs.
 - [Préparation open source](oss/OPEN_SOURCE_READINESS.md) : liste de contrôle pour la publication publique.
 
 ## Naviguer par objectif
@@ -65,7 +66,4 @@ Le contenu anglais fait foi ; ce document est le miroir français du wiki public
 - Utilisez le [Modèle de note de terrain](../../../field-notes/_template.md) pour les observations précoces.
 - Vérifiez les [Licences](licensing.md) avant les décisions de publication publique.
 - Vérifiez l'[Hygiène des preuves](evidence-hygiene.md) avant d'ajouter des exemples ou des notes de terrain.
-
-## Barre latérale
-
-La navigation en style barre latérale se trouve dans [_sidebar.md](_sidebar.md).
+- Consultez les [Démarrages rapides localisés](../README.md) lors de la modification de la documentation destinée aux utilisateurs.

@@ -7,6 +7,9 @@
 Verdict: `REVISE`（ライセンスが確定し、翻訳済みクイックスタートと完全な wiki ミラーの
 人間によるレビューパスが完了するまで）。
 
+Scope: repository docs、pattern catalog、GitHub template、i18n、contribution workflow、
+public positioning。
+
 プライマリリスク: このプロジェクトは実際の agentic ワークフローから着想を得ているため、
 公開ドキュメントは独自プロンプト、非公開ハーネスの詳細、顧客データ、プライベートリポジトリ名、
 内部ワークフロートランスクリプトを公開してはなりません。
