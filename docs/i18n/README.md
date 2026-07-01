@@ -14,7 +14,7 @@ Each localized quick start should explain:
 ## Languages
 
 | Language | Pack Entry | Quick Start |
-| --- | --- |
+| --- | --- | --- |
 | English | [en/README.md](en/README.md) | [en.md](en.md) |
 | Korean | [ko/README.md](ko/README.md) | [ko.md](ko.md) |
 | Japanese | [ja/README.md](ja/README.md) | [ja.md](ja.md) |
@@ -27,6 +27,14 @@ Each localized quick start should explain:
 | Language | Status | Entry |
 | --- | --- | --- |
 | Korean | Complete for current `docs/` user-facing wiki pages | [ko/README.md](ko/README.md) |
+| Japanese | Complete for current `docs/` user-facing wiki pages | [ja/README.md](ja/README.md) |
+| Chinese (Simplified) | Complete for current `docs/` user-facing wiki pages | [zh/README.md](zh/README.md) |
+| Spanish | Complete for current `docs/` user-facing wiki pages | [es/README.md](es/README.md) |
+| French | Complete for current `docs/` user-facing wiki pages | [fr/README.md](fr/README.md) |
+
+Each mirror is self-contained: every internal link resolves to a same-locale page,
+and the only outbound links are the shared English-only source artifacts (`catalog/`,
+`patterns/`, `field-notes/`).
 
 See [COVERAGE.md](COVERAGE.md) for the maintained i18n coverage matrix.
 
