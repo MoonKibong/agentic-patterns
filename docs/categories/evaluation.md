@@ -8,8 +8,7 @@ know this approach fits or worked?"
 
 ## Current Patterns
 
-No public evaluation pattern is currently listed. Private evaluation patterns are maintained outside
-the public wiki.
+This category has no patterns yet.
 
 ## Pattern Ideas
 
