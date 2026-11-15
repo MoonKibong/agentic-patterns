@@ -13,6 +13,7 @@
 - [프롬프트](/docs/i18n/ko/categories/prompt.md)
 - [컨텍스트](/docs/i18n/ko/categories/context.md)
 - [하네스](/docs/i18n/ko/categories/harness.md)
+- [오케스트레이션](/docs/i18n/ko/categories/orchestration.md)
 - [도구](/docs/i18n/ko/categories/tool.md)
 - [메모리](/docs/i18n/ko/categories/memory.md)
 - [평가](/docs/i18n/ko/categories/evaluation.md)

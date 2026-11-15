@@ -38,6 +38,7 @@ Agentic Patterns의 한국어 위키 진입점입니다.
 - [프롬프트 패턴](categories/prompt.md)
 - [컨텍스트 패턴](categories/context.md)
 - [하네스 패턴](categories/harness.md)
+- [오케스트레이션 패턴](categories/orchestration.md)
 - [도구 패턴](categories/tool.md)
 - [메모리 패턴](categories/memory.md)
 - [평가 패턴](categories/evaluation.md)

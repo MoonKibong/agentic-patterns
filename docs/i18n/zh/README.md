@@ -38,6 +38,7 @@ Agentic Patterns 简体中文维基入口。
 - [提示模式](categories/prompt.md)
 - [上下文模式](categories/context.md)
 - [工作流模式](categories/harness.md)
+- [编排模式](categories/orchestration.md)
 - [工具模式](categories/tool.md)
 - [记忆模式](categories/memory.md)
 - [评估模式](categories/evaluation.md)

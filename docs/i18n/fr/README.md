@@ -40,6 +40,7 @@ Le contenu anglais fait foi ; ce document est le miroir français du wiki public
 - [Patterns de prompts](categories/prompt.md)
 - [Patterns de contexte](categories/context.md)
 - [Patterns de harnais](categories/harness.md)
+- [Patterns d'orchestration](categories/orchestration.md)
 - [Patterns d'outils](categories/tool.md)
 - [Patterns de mémoire](categories/memory.md)
 - [Patterns d'évaluation](categories/evaluation.md)

@@ -38,6 +38,7 @@ Agentic Patterns の日本語ウィキへようこそ。
 - [プロンプトパターン](categories/prompt.md)
 - [コンテキストパターン](categories/context.md)
 - [ハーネスパターン](categories/harness.md)
+- [オーケストレーションパターン](categories/orchestration.md)
 - [ツールパターン](categories/tool.md)
 - [メモリパターン](categories/memory.md)
 - [評価パターン](categories/evaluation.md)
