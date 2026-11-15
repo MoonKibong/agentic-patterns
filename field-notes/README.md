@@ -26,3 +26,11 @@ Start with [field-notes/_template.md](_template.md).
 - [Typed Reads And Pinned Harness Evaluation](typed-reads-and-pinned-harness-evaluation.md) (`raw`):
   read typed fields instead of regex over free-text replies, and pin the component under test during
   a harness evaluation.
+- [Hash-Bound Approval](hash-bound-approval.md) (`raw`): bind a human approval to content hashes,
+  invalidate it when content changes, and recheck after the answer.
+- [Contract Before Code](contract-before-code.md) (`raw`): implementation refuses to start without a
+  person-approved task contract bound to an approved requirements version.
+- [Evidence Record](evidence-record.md) (`raw`): new checks first fail on their own assertion,
+  regression checks get a baseline, and results go to a per-task evidence file.
+- [Task Slicing Instead Of An Orchestrator](task-slicing-instead-of-orchestrator.md) (`raw`): split
+  multi-step work into tasks of a day or less with explicit prerequisites.
