@@ -7,7 +7,9 @@ Memory pattern은 유용한 지식이 단일 agent turn, chat session, workflow 
 
 ## 현재 패턴
 
-아직 dedicated memory pattern은 없습니다. 관련된 현재 패턴:
+이 카테고리에는 아직 패턴이 없습니다.
+
+다른 카테고리의 관련 패턴:
 
 - [지속 세션 상태 (Durable Session State)](../../../../patterns/orchestration/durable-session-state.md)
 - [컨텍스트 패킷 (Context Packet)](../../../../patterns/context/context-packet.md)

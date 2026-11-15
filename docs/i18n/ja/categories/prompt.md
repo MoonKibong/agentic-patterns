@@ -12,7 +12,7 @@ Prompt pattern はロール、タスク、制約、期待される出力のた�
 
 ## パターンアイデア
 
-- Reviewer Gate.
+- Reviewer Gate (フィールドノート: [Independent Reviewer Gate Structure](../../../../field-notes/independent-reviewer-gate-structure.md)).
 - Output Contract.
 - Assumption Ledger.
 - Decision Escalation.

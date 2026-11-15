@@ -8,7 +8,9 @@ contraintes ou d'états qui ne doivent pas être redécouverts à chaque fois.
 
 ## Patterns actuels
 
-Aucun pattern de mémoire dédié n'a encore été accepté. Patterns actuels associés :
+Cette catégorie n'a pas encore de pattern.
+
+Patterns associés dans d'autres catégories :
 
 - [État de session durable (Durable Session State)](../../../../patterns/orchestration/durable-session-state.md)
 - [Paquet de contexte (Context Packet)](../../../../patterns/context/context-packet.md)

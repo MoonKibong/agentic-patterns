@@ -7,7 +7,9 @@ Memory pattern は有用な知識が単一のエージェントターン、チ�
 
 ## 現在のパターン
 
-専用のメモリパターンはまだ存在しません。関連する現在のパターン:
+このカテゴリにはまだパターンがありません。
+
+他のカテゴリの関連パターン:
 
 - [永続セッション状態 (Durable Session State)](../../../../patterns/orchestration/durable-session-state.md)
 - [コンテキストパケット (Context Packet)](../../../../patterns/context/context-packet.md)

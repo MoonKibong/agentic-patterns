@@ -6,7 +6,9 @@ Memory pattern 定义有用知识在单次 agent turn、chat session 或 workflo
 
 ## 当前模式
 
-目前尚无专用的记忆模式。相关的现有模式：
+该分类目前尚无模式。
+
+其他分类中的相关模式：
 
 - [持久会话状态 (Durable Session State)](../../../../patterns/orchestration/durable-session-state.md)
 - [上下文包 (Context Packet)](../../../../patterns/context/context-packet.md)

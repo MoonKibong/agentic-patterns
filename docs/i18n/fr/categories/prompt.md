@@ -15,7 +15,7 @@ décider et ce qu'il doit retourner.
 
 ## Idées de patterns
 
-- Reviewer Gate.
+- Reviewer Gate (note de terrain : [Independent Reviewer Gate Structure](../../../../field-notes/independent-reviewer-gate-structure.md)).
 - Output Contract.
 - Assumption Ledger.
 - Decision Escalation.
