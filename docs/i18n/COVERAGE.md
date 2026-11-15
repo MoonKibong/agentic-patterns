@@ -34,7 +34,7 @@ language.
 All five localized wikis are complete, self-contained mirrors of the current `docs/`
 user-facing wiki pages. Internal links inside each mirror resolve to same-locale pages;
 the only outbound links are the shared English-only source artifacts (`catalog/`,
-`patterns/`, `field-notes/`).
+`patterns/`, `field-notes/`) and the shared English language index (`docs/i18n/README.md`).
 
 - [Korean wiki mirror](ko/README.md)
 - [Japanese wiki mirror](ja/README.md)
