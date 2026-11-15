@@ -41,8 +41,9 @@ Each session had a small, checkable scope and a known starting point. The tradeo
 coordination work to the person who orders and splits tasks, while an orchestrator moves it to
 software that can run work in parallel. Both have costs, and no comparison was made between them.
 
-**When this is overkill.** The move costs more than it returns when tasks are already smaller than
-a day, because the planning overhead exceeds the work. It also fits poorly where an orchestrator's
+**When this is overkill.** The move costs more than it returns when tasks are already scoped to a day
+or less with known prerequisites, because further slicing may add planning overhead for little
+benefit. It also fits poorly where an orchestrator's
 parallelism is the point, such as many independent tasks that should run at the same time.
 
 Not measured: total elapsed time, rework rate, and how often a split task needed another split.

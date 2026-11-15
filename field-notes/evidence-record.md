@@ -38,9 +38,12 @@ The workflow used these rules:
 
 ## Outcome
 
-A check that never failed could not be mistaken for one that tested something, and the reviewer had
-a file to inspect. Rerunning on changed inputs cost time. The distinction between new and
-regression checks needed a judgment call by the implementer in some cases.
+The record separated two kinds of checks: new checks that had failed on their own assertion, and
+regression checks backed by a baseline run. The reviewer had a file to inspect. Neither kind proves
+meaningful coverage: a check that fails on its own assertion can still test the wrong behavior, and
+a baseline run only shows the behavior existed. Rerunning on changed inputs cost time. The
+distinction between new and regression checks needed a judgment call by the implementer in some
+cases.
 
 **When this is overkill.** The move costs more than it returns for documentation-only changes,
 where there is no behavior to fail. It also costs too much for checks so cheap that recording them
