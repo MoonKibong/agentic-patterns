@@ -8,8 +8,7 @@ Usa patrones de evaluación cuando la pregunta central no es "¿qué debe hacer 
 
 ## Patrones Actuales
 
-Actualmente no hay ningún patrón de evaluación público listado. Los patrones de evaluación
-privados se mantienen fuera del wiki público.
+Esta categoría aún no tiene patrones.
 
 ## Ideas de Patrones
 

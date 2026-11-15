@@ -8,7 +8,9 @@ restricciones o estado que no deben redescubrirse cada vez.
 
 ## Patrones Actuales
 
-Aún no se ha aceptado ningún patrón de memoria dedicado. Patrones actuales relacionados:
+Esta categoría aún no tiene patrones.
+
+Patrones relacionados en otras categorías:
 
 - [Estado de Sesión Durable (Durable Session State)](../../../../patterns/orchestration/durable-session-state.md)
 - [Paquete de Contexto (Context Packet)](../../../../patterns/context/context-packet.md)

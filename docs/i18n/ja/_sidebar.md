@@ -13,6 +13,7 @@
 - [プロンプト](/docs/i18n/ja/categories/prompt.md)
 - [コンテキスト](/docs/i18n/ja/categories/context.md)
 - [ハーネス](/docs/i18n/ja/categories/harness.md)
+- [オーケストレーション](/docs/i18n/ja/categories/orchestration.md)
 - [ツール](/docs/i18n/ja/categories/tool.md)
 - [メモリ](/docs/i18n/ja/categories/memory.md)
 - [評価](/docs/i18n/ja/categories/evaluation.md)

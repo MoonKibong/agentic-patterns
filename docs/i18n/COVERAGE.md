@@ -11,8 +11,8 @@ language.
 | Language pack entry page | Complete | Complete | Complete | Complete | Complete |
 | Quick start | Complete | Complete | Complete | Complete | Complete |
 | Root contribution guide | Complete | Complete | Complete | Complete | Complete |
-| Wiki home and sidebar | Gap: orchestration link (T#8) | Gap: orchestration link (T#8) | Gap: orchestration link (T#8) | Gap: orchestration link (T#8) | Gap: orchestration link (T#8) |
-| Category pages | Gap: orchestration page, memory/evaluation empty wording (T#8) | Gap: orchestration page, memory/evaluation empty wording (T#8) | Gap: orchestration page, memory/evaluation empty wording (T#8) | Gap: orchestration page, memory/evaluation empty wording (T#8) | Gap: orchestration page, memory/evaluation empty wording (T#8) |
+| Wiki home and sidebar | Complete | Complete | Complete | Complete | Complete |
+| Category pages | Complete | Complete | Complete | Complete | Complete |
 | Domain pages | Complete | Complete | Complete | Complete | Complete |
 | Project / pattern language docs | Complete | Complete | Complete | Complete | Complete |
 | Evidence / licensing / roadmap | Complete | Complete | Complete | Complete | Complete |
@@ -34,7 +34,7 @@ language.
 All five localized wikis are complete, self-contained mirrors of the current `docs/`
 user-facing wiki pages. Internal links inside each mirror resolve to same-locale pages;
 the only outbound links are the shared English-only source artifacts (`catalog/`,
-`patterns/`, `field-notes/`).
+`patterns/`, `field-notes/`) and the shared English language index (`docs/i18n/README.md`).
 
 - [Korean wiki mirror](ko/README.md)
 - [Japanese wiki mirror](ja/README.md)

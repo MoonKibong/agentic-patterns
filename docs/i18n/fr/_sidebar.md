@@ -13,6 +13,7 @@
 - [Prompts](/docs/i18n/fr/categories/prompt.md)
 - [Contexte](/docs/i18n/fr/categories/context.md)
 - [Harnais](/docs/i18n/fr/categories/harness.md)
+- [Orchestration](/docs/i18n/fr/categories/orchestration.md)
 - [Outils](/docs/i18n/fr/categories/tool.md)
 - [Mémoire](/docs/i18n/fr/categories/memory.md)
 - [Évaluation](/docs/i18n/fr/categories/evaluation.md)

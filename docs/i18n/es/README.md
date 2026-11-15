@@ -41,6 +41,7 @@ español de la documentación pública actual.
 - [Patrones de Prompt](categories/prompt.md)
 - [Patrones de Contexto](categories/context.md)
 - [Patrones de Harness](categories/harness.md)
+- [Patrones de Orquestación](categories/orchestration.md)
 - [Patrones de Herramientas](categories/tool.md)
 - [Patrones de Memoria](categories/memory.md)
 - [Patrones de Evaluación](categories/evaluation.md)

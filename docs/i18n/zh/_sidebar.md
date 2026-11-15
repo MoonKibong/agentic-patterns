@@ -13,6 +13,7 @@
 - [提示](/docs/i18n/zh/categories/prompt.md)
 - [上下文](/docs/i18n/zh/categories/context.md)
 - [工作流](/docs/i18n/zh/categories/harness.md)
+- [编排](/docs/i18n/zh/categories/orchestration.md)
 - [工具](/docs/i18n/zh/categories/tool.md)
 - [记忆](/docs/i18n/zh/categories/memory.md)
 - [评估](/docs/i18n/zh/categories/evaluation.md)

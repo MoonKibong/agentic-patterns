@@ -13,7 +13,7 @@ structure를 정의합니다.
 
 ## 패턴 아이디어
 
-- Reviewer Gate.
+- Reviewer Gate (필드 노트: [Independent Reviewer Gate Structure](../../../../field-notes/independent-reviewer-gate-structure.md)).
 - Output Contract.
 - Assumption Ledger.
 - Decision Escalation.

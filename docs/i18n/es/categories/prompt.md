@@ -14,7 +14,7 @@ y qué debe devolver.
 
 ## Ideas de Patrones
 
-- Reviewer Gate.
+- Reviewer Gate (nota de campo: [Independent Reviewer Gate Structure](../../../../field-notes/independent-reviewer-gate-structure.md)).
 - Output Contract.
 - Assumption Ledger.
 - Decision Escalation.

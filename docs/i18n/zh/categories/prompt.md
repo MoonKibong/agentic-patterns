@@ -10,7 +10,7 @@ Prompt pattern 定义可复用的 instruction structure，用于角色、任务�
 
 ## 模式构想
 
-- Reviewer Gate。
+- Reviewer Gate (现场笔记：[Independent Reviewer Gate Structure](../../../../field-notes/independent-reviewer-gate-structure.md))。
 - Output Contract。
 - Assumption Ledger。
 - Decision Escalation。

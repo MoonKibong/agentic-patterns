@@ -8,8 +8,7 @@ Utilisez les patterns d'évaluation lorsque la question centrale n'est pas « qu
 
 ## Patterns actuels
 
-Aucun pattern d'évaluation public n'est actuellement répertorié. Les patterns d'évaluation privés
-sont maintenus en dehors du wiki public.
+Cette catégorie n'a pas encore de pattern.
 
 ## Idées de patterns
 
