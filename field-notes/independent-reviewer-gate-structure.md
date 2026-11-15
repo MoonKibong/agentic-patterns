@@ -35,9 +35,11 @@ The workflow used these rules:
    `block`, in lowercase. No other word is a verdict.
 3. **Mechanical verdict validation.** The orchestrator checks the verdict field with code, not
    judgment. If the field is missing or outside the vocabulary, the orchestrator rejects the reply
-   and re-asks the reviewer.
-4. **Revise-round cap.** The orchestrator counts `revise` verdicts. After repeated `revise`
-   verdicts, it stops the loop and escalates to a human.
+   and re-asks the reviewer. Invalid replies count against a separate retry limit; when it is
+   reached, the orchestrator stops and escalates to a human.
+4. **Revise-round cap.** The orchestrator counts `revise` verdicts. After a fixed number of `revise`
+   verdicts, it stops the loop and escalates to a human. The note does not establish a good value
+   for either limit; each workflow chose its own.
 5. **Same-agent fallback with a recorded reason.** When no different agent is available, the
    orchestrator may let the implementing agent review only if a human gives a reason and the reason
    is recorded.
