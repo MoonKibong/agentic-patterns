@@ -13,7 +13,7 @@ what the agent should optimize for, what it may decide, and what it must return.
 
 ## Pattern Ideas
 
-- Reviewer Gate.
+- Reviewer Gate (field note: [Independent Reviewer Gate Structure](../../field-notes/independent-reviewer-gate-structure.md)).
 - Output Contract.
 - Assumption Ledger.
 - Decision Escalation.
