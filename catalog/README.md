@@ -4,14 +4,17 @@ This catalog groups agentic patterns by the reusable move they describe.
 
 ## Categories
 
-| Category | Purpose |
-| --- | --- |
-| [`prompt`](../docs/categories/prompt.md) | Reusable instruction and role structures. |
-| [`context`](../docs/categories/context.md) | Bounded context packets, memory summaries, and handoff formats. |
-| [`harness`](../docs/categories/harness.md) | Planning, execution, review, verification, and critique loops. |
-| [`tool`](../docs/categories/tool.md) | MCP, CLI, shell, and tool-use protocols. |
-| [`memory`](../docs/categories/memory.md) | Durable state, knowledge preservation, and retrieval patterns. |
-| [`evaluation`](../docs/categories/evaluation.md) | Pattern-quality checks, metrics, and comparison methods. |
+| Category | Purpose | Patterns |
+| --- | --- | --- |
+| [`prompt`](../docs/categories/prompt.md) | Reusable instruction and role structures. | 1 |
+| [`context`](../docs/categories/context.md) | Bounded context packets, memory summaries, and handoff formats. | 2 |
+| [`harness`](../docs/categories/harness.md) | Planning, execution, review, verification, and critique loops. | 1 |
+| [`orchestration`](../docs/categories/orchestration.md) | Multi-agent and multi-session coordination, handoffs, and durable workflow state. | 1 |
+| [`tool`](../docs/categories/tool.md) | MCP, CLI, shell, and tool-use protocols. | 1 |
+| [`memory`](../docs/categories/memory.md) | Durable knowledge preservation and retrieval across sessions. | 0 (empty) |
+| [`evaluation`](../docs/categories/evaluation.md) | Pattern-quality checks, metrics, and comparison methods. | 0 (empty) |
+
+Categories marked empty have no pattern entries yet.
 
 ## Seed Patterns
 

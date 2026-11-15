@@ -8,7 +8,9 @@ should not be rediscovered each time.
 
 ## Current Patterns
 
-No dedicated memory pattern has been accepted yet. Related current patterns:
+This category has no patterns yet.
+
+Related patterns in other categories:
 
 - [Durable Session State](../../patterns/orchestration/durable-session-state.md)
 - [Context Packet](../../patterns/context/context-packet.md)

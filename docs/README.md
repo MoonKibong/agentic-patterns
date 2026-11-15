@@ -39,6 +39,7 @@ individual pattern entries when you need operational detail.
 - [Prompt Patterns](categories/prompt.md)
 - [Context Patterns](categories/context.md)
 - [Harness Patterns](categories/harness.md)
+- [Orchestration Patterns](categories/orchestration.md)
 - [Tool Patterns](categories/tool.md)
 - [Memory Patterns](categories/memory.md)
 - [Evaluation Patterns](categories/evaluation.md)

@@ -11,8 +11,8 @@ language.
 | Language pack entry page | Complete | Complete | Complete | Complete | Complete |
 | Quick start | Complete | Complete | Complete | Complete | Complete |
 | Root contribution guide | Complete | Complete | Complete | Complete | Complete |
-| Wiki home and sidebar | Complete | Complete | Complete | Complete | Complete |
-| Category pages | Complete | Complete | Complete | Complete | Complete |
+| Wiki home and sidebar | Gap: orchestration link (T#8) | Gap: orchestration link (T#8) | Gap: orchestration link (T#8) | Gap: orchestration link (T#8) | Gap: orchestration link (T#8) |
+| Category pages | Gap: orchestration page, memory/evaluation empty wording (T#8) | Gap: orchestration page, memory/evaluation empty wording (T#8) | Gap: orchestration page, memory/evaluation empty wording (T#8) | Gap: orchestration page, memory/evaluation empty wording (T#8) | Gap: orchestration page, memory/evaluation empty wording (T#8) |
 | Domain pages | Complete | Complete | Complete | Complete | Complete |
 | Project / pattern language docs | Complete | Complete | Complete | Complete | Complete |
 | Evidence / licensing / roadmap | Complete | Complete | Complete | Complete | Complete |

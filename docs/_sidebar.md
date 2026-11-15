@@ -14,6 +14,7 @@
 - [Prompt](/docs/categories/prompt.md)
 - [Context](/docs/categories/context.md)
 - [Harness](/docs/categories/harness.md)
+- [Orchestration](/docs/categories/orchestration.md)
 - [Tool](/docs/categories/tool.md)
 - [Memory](/docs/categories/memory.md)
 - [Evaluation](/docs/categories/evaluation.md)
